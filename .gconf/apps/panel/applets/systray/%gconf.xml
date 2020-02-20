@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="locked" mtime="1582189426" type="bool" value="true"/>
+	<entry name="position" mtime="1581945489" type="int" value="1"/>
+</gconf>
